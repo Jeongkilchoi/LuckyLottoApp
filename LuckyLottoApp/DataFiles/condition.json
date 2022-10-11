@@ -1,0 +1,20 @@
+{
+  "chk3": false,
+  "chk2": false,
+  "chk1": true,
+  "chkGongpyun": true,
+  "chkNotchul": true,
+  "chkDangcha": true,
+  "chkOutdot": true,
+  "chkSangkuk": true,
+  "chkDirection": true,
+  "chkChultype": true,
+  "chkShapedouble": true,
+  "chkThreejohap": true,
+  "chkMuljohap": true,
+  "chkBangjohap": true,
+  "chkKojohap": true,
+  "chkYesang": true,
+  "chkJeoe": true,
+  "chkKojeon": true
+}

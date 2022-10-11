@@ -1,0 +1,2882 @@
+{
+  "Beisu4": [
+    0,
+    4,
+    "1",
+    true
+  ],
+  "Beisu5": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Beisu6": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Beisu7": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Beisu8": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "Beisu9": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "Jekobsu": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Ihangsu": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Pivosu": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Revpivo": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Donhyeong": [
+    0,
+    5,
+    "4",
+    true
+  ],
+  "Daluksu": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Ihutsu": [
+    0,
+    5,
+    "",
+    true
+  ],
+  "Binsu": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Autsu": [
+    -1,
+    3,
+    "",
+    true
+  ],
+  "Cansu": [
+    -1,
+    3,
+    "",
+    true
+  ],
+  "Samkak1": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Samkak2": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Samkak3": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Samkak4": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_0": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_1": [
+    0,
+    3,
+    "1",
+    true
+  ],
+  "Nine_2": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_3": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_4": [
+    0,
+    4,
+    "3",
+    true
+  ],
+  "Nine_5": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_6": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_7": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_8": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_9": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_10": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_11": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_12": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_13": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_14": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_15": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_16": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_17": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_18": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_19": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_20": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_21": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_22": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_23": [
+    0,
+    4,
+    "1",
+    true
+  ],
+  "Nine_24": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_25": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_26": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_27": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_28": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_29": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_30": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_31": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_32": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_33": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_34": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_35": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_36": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_37": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_38": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_39": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_40": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_41": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_42": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Nine_43": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Nine_44": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NThree_0": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_1": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_2": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_3": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_4": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_5": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_6": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_7": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_8": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_9": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_10": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_11": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_12": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_13": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_14": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_15": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_16": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_17": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_18": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_19": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_20": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_21": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_22": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_23": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_24": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_25": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_26": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_27": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_28": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_29": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_30": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_31": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_32": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_33": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_34": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_35": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_36": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_37": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_38": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_39": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_40": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_41": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_42": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_43": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_44": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_45": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_46": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_47": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_48": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_49": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_50": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_51": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_52": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_53": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_54": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_55": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_56": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_57": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_58": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_59": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_60": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_61": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_62": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_63": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_64": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_65": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_66": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_67": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_68": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_69": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_70": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_71": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_72": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_73": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_74": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_75": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_76": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_77": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_78": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_79": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_80": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_81": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_82": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_83": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_84": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_85": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_86": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_87": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_88": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_89": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_90": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_91": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_92": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_93": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_94": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_95": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_96": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_97": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_98": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_99": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_100": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_101": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_102": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_103": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_104": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_105": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_106": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_107": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_108": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_109": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_110": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_111": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_112": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_113": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_114": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_115": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_116": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_117": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_118": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_119": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_120": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_121": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_122": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_123": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_124": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_125": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_126": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_127": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_128": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_129": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_130": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_131": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_132": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_133": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_134": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_135": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_136": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_137": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_138": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_139": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_140": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_141": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_142": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_143": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_144": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_145": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_146": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_147": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_148": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_149": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_150": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_151": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_152": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_153": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_154": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_155": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_156": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_157": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_158": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_159": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_160": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_161": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_162": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_163": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_164": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_165": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_166": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_167": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_168": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_169": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_170": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_171": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_172": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_173": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_174": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_175": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_176": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_177": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_178": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_179": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_180": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_181": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_182": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_183": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_184": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_185": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_186": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_187": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_188": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_189": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_190": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_191": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_192": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_193": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_194": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_195": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_196": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_197": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_198": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_199": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_200": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_201": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_202": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_203": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_204": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_205": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_206": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_207": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_208": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_209": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_210": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_211": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_212": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_213": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_214": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_215": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_216": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_217": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_218": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_219": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_220": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_221": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_222": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_223": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_224": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_225": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_226": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_227": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_228": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_229": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_230": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_231": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_232": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_233": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_234": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_235": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_236": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_237": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_238": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_239": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_240": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_241": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_242": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_243": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_244": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_245": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_246": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_247": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_248": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_249": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_250": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_251": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_252": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_253": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_254": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_255": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_256": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_257": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_258": [
+    0,
+    2,
+    "1",
+    true
+  ],
+  "NThree_259": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_260": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_261": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_262": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_263": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_264": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_265": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_266": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_267": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_268": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_269": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_270": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_271": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_272": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_273": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_274": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_275": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_276": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_277": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_278": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_279": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_280": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_281": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_282": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_283": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_284": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_285": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_286": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_287": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_288": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_289": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_290": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_291": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_292": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_293": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_294": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NThree_295": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_0": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_1": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_2": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_3": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_4": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_5": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_6": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_7": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_8": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_9": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_10": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_11": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_12": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_13": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_14": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_15": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_16": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_17": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_18": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_19": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_20": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_21": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_22": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_23": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_24": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_25": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_26": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_27": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_28": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_29": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_30": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_31": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_32": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_33": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_34": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_35": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_36": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_37": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_38": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_39": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_40": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_41": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_42": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_43": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_44": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_45": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_46": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_47": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_48": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_49": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_50": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_51": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_52": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_53": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_54": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_55": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_56": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_57": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_58": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_59": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_60": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_61": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "NFive_62": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_63": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_64": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_65": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_66": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "NFive_67": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Lowhigh_0": [
+    0,
+    5,
+    "",
+    true
+  ],
+  "Lowhigh_1": [
+    1,
+    6,
+    "",
+    true
+  ],
+  "Oddeven_0": [
+    0,
+    6,
+    "4",
+    true
+  ],
+  "Oddeven_1": [
+    0,
+    6,
+    "2",
+    true
+  ],
+  "Innout_0": [
+    1,
+    5,
+    "",
+    true
+  ],
+  "Innout_1": [
+    1,
+    5,
+    "",
+    true
+  ],
+  "Topleft_0": [
+    1,
+    5,
+    "",
+    true
+  ],
+  "Topleft_1": [
+    1,
+    5,
+    "",
+    true
+  ],
+  "LDiagonal_0": [
+    1,
+    6,
+    "",
+    true
+  ],
+  "LDiagonal_1": [
+    0,
+    5,
+    "",
+    true
+  ],
+  "RDiagonal_0": [
+    1,
+    5,
+    "",
+    true
+  ],
+  "RDiagonal_1": [
+    1,
+    5,
+    "",
+    true
+  ],
+  "Sosamhap_0": [
+    0,
+    4,
+    "3",
+    true
+  ],
+  "Sosamhap_1": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Sosamhap_2": [
+    0,
+    5,
+    "",
+    true
+  ],
+  "Beondae_0": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Beondae_1": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Beondae_2": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Beondae_3": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Beondae_4": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Slipsu_0": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Slipsu_1": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Slipsu_2": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Slipsu_3": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Slipsu_4": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Slipsu_5": [
+    0,
+    4,
+    "3",
+    true
+  ],
+  "Kkeutbeon_0": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "Kkeutbeon_1": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Kkeutbeon_2": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "Kkeutbeon_3": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Kkeutbeon_4": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "Kkeutbeon_5": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Kkeutbeon_6": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "Kkeutbeon_7": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "Kkeutbeon_8": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "Kkeutbeon_9": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "Hotcold1": [
+    1,
+    5,
+    "",
+    true
+  ],
+  "Hotcold2": [
+    0,
+    4,
+    "2",
+    true
+  ],
+  "Hotcold3": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Snaksu1": [
+    0,
+    5,
+    "3",
+    true
+  ],
+  "Snaksu2": [
+    0,
+    4,
+    "",
+    true
+  ],
+  "Snaksu3": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Snaksu4": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Snaksu5": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "Snaksu6": [
+    0,
+    1,
+    "",
+    true
+  ],
+  "Rnaksu1": [
+    0,
+    5,
+    "",
+    true
+  ],
+  "Rnaksu2": [
+    0,
+    4,
+    "2,3",
+    true
+  ],
+  "Rnaksu3": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Rnaksu4": [
+    0,
+    3,
+    "",
+    true
+  ],
+  "Rnaksu5": [
+    0,
+    2,
+    "",
+    true
+  ],
+  "Rnaksu6": [
+    0,
+    1,
+    "",
+    true
+  ]
+}

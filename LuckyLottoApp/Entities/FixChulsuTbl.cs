@@ -1,0 +1,99 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace LuckyLottoApp.Entities
+{
+    public class FixChulsuTbl
+    {
+        [Key]
+        public int Orders { get; set; }
+        public string RH03 { get; set; }
+        public string RH04 { get; set; }
+        public string RH05 { get; set; }
+        public string RH06 { get; set; }
+        public string RH07 { get; set; }
+        public string RH08 { get; set; }
+        public string RH09 { get; set; }
+        public string RH10 { get; set; }
+        public string RH11 { get; set; }
+        public string RH12 { get; set; }
+        public string RH13 { get; set; }
+        public string RH14 { get; set; }
+        public string RH15 { get; set; }
+        public string RV03 { get; set; }
+        public string RV04 { get; set; }
+        public string RV05 { get; set; }
+        public string RV06 { get; set; }
+        public string RV07 { get; set; }
+        public string RV08 { get; set; }
+        public string RV09 { get; set; }
+        public string RV10 { get; set; }
+        public string RV11 { get; set; }
+        public string RV12 { get; set; }
+        public string RV13 { get; set; }
+        public string RV14 { get; set; }
+        public string RV15 { get; set; }
+        public string DH03 { get; set; }
+        public string DH04 { get; set; }
+        public string DH05 { get; set; }
+        public string DH06 { get; set; }
+        public string DH07 { get; set; }
+        public string DH08 { get; set; }
+        public string DH09 { get; set; }
+        public string DH10 { get; set; }
+        public string DH11 { get; set; }
+        public string DH12 { get; set; }
+        public string DH13 { get; set; }
+        public string DH14 { get; set; }
+        public string DH15 { get; set; }
+        public string DV03 { get; set; }
+        public string DV04 { get; set; }
+        public string DV05 { get; set; }
+        public string DV06 { get; set; }
+        public string DV07 { get; set; }
+        public string DV08 { get; set; }
+        public string DV09 { get; set; }
+        public string DV10 { get; set; }
+        public string DV11 { get; set; }
+        public string DV12 { get; set; }
+        public string DV13 { get; set; }
+        public string DV14 { get; set; }
+        public string DV15 { get; set; }
+        public string SH03 { get; set; }
+        public string SH04 { get; set; }
+        public string SH05 { get; set; }
+        public string SH06 { get; set; }
+        public string SH07 { get; set; }
+        public string SH08 { get; set; }
+        public string SH09 { get; set; }
+        public string SH10 { get; set; }
+        public string SH11 { get; set; }
+        public string SH12 { get; set; }
+        public string SH13 { get; set; }
+        public string SH14 { get; set; }
+        public string SH15 { get; set; }
+        public string SV03 { get; set; }
+        public string SV04 { get; set; }
+        public string SV05 { get; set; }
+        public string SV06 { get; set; }
+        public string SV07 { get; set; }
+        public string SV08 { get; set; }
+        public string SV09 { get; set; }
+        public string SV10 { get; set; }
+        public string SV11 { get; set; }
+        public string SV12 { get; set; }
+        public string SV13 { get; set; }
+        public string SV14 { get; set; }
+        public string SV15 { get; set; }
+        public string Lowhigh { get; set; }
+        public string Oddeven { get; set; }
+        public string Innout { get; set; }
+        public string Topleft { get; set; }
+        public string Ldiagonal { get; set; }
+        public string Rdiagonal { get; set; }
+        public string Sosamhap { get; set; }
+        public string Beondae { get; set; }
+        public string Slipsu { get; set; }
+        public string Kkeutbeon { get; set; }
+        public string Position7 { get; set; }
+    }
+}

@@ -1,0 +1,159 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace LuckyLottoApp.Entities
+{
+    public class PolygonTbl
+    {
+        [Key]
+        public int Orders { get; set; }
+        public string H0501 { get; set;}
+        public string H0502 { get; set; }
+        public string H0504 { get; set; }
+        public string H0507 { get; set; }
+        public string H0508 { get; set; }
+        public string H0511 { get; set; }
+        public string H0513 { get; set; }
+        public string H0514 { get; set; }
+        public string H0516 { get; set; }
+        public string H0517 { get; set; }
+        public string H0519 { get; set; }
+        public string H0522 { get; set; }
+        public string H0523 { get; set; }
+        public string H0526 { get; set; }
+        public string H0528 { get; set; }
+        public string H0529 { get; set; }
+        public string H0531 { get; set; }
+        public string H0532 { get; set; }
+        public string H0534 { get; set; }
+        public string H0537 { get; set; }
+        public string H0538 { get; set; }
+        public string H0541 { get; set; }
+        public string H0543 { get; set; }
+        public string H0544 { get; set; }
+
+        public string V0501 { get; set; }
+        public string V0502 { get; set; }
+        public string V0504 { get; set; }
+        public string V0507 { get; set; }
+        public string V0508 { get; set; }
+        public string V0511 { get; set; }
+        public string V0513 { get; set; }
+        public string V0514 { get; set; }
+        public string V0516 { get; set; }
+        public string V0517 { get; set; }
+        public string V0519 { get; set; }
+        public string V0522 { get; set; }
+        public string V0523 { get; set; }
+        public string V0526 { get; set; }
+        public string V0528 { get; set; }
+        public string V0529 { get; set; }
+        public string V0531 { get; set; }
+        public string V0532 { get; set; }
+        public string V0534 { get; set; }
+        public string V0537 { get; set; }
+        public string V0538 { get; set; }
+        public string V0541 { get; set; }
+        public string V0543 { get; set; }
+        public string V0544 { get; set; }
+
+        public string H0701 { get; set; }
+        public string H0702 { get; set; }
+        public string H0704 { get; set; }
+        public string H0707 { get; set; }
+        public string H0708 { get; set; }
+        public string H0711 { get; set; }
+        public string H0713 { get; set; }
+        public string H0714 { get; set; }
+        public string H0716 { get; set; }
+        public string H0717 { get; set; }
+        public string H0719 { get; set; }
+        public string H0722 { get; set; }
+        public string H0723 { get; set; }
+        public string H0726 { get; set; }
+        public string H0728 { get; set; }
+        public string H0729 { get; set; }
+        public string H0731 { get; set; }
+        public string H0732 { get; set; }
+        public string H0734 { get; set; }
+        public string H0737 { get; set; }
+        public string H0738 { get; set; }
+        public string H0741 { get; set; }
+        public string H0743 { get; set; }
+        public string H0744 { get; set; }
+
+        public string V0701 { get; set; }
+        public string V0702 { get; set; }
+        public string V0704 { get; set; }
+        public string V0707 { get; set; }
+        public string V0708 { get; set; }
+        public string V0711 { get; set; }
+        public string V0713 { get; set; }
+        public string V0714 { get; set; }
+        public string V0716 { get; set; }
+        public string V0717 { get; set; }
+        public string V0719 { get; set; }
+        public string V0722 { get; set; }
+        public string V0723 { get; set; }
+        public string V0726 { get; set; }
+        public string V0728 { get; set; }
+        public string V0729 { get; set; }
+        public string V0731 { get; set; }
+        public string V0732 { get; set; }
+        public string V0734 { get; set; }
+        public string V0737 { get; set; }
+        public string V0738 { get; set; }
+        public string V0741 { get; set; }
+        public string V0743 { get; set; }
+        public string V0744 { get; set; }
+
+        public string H0901 { get; set; }
+        public string H0902 { get; set; }
+        public string H0904 { get; set; }
+        public string H0907 { get; set; }
+        public string H0908 { get; set; }
+        public string H0911 { get; set; }
+        public string H0913 { get; set; }
+        public string H0914 { get; set; }
+        public string H0916 { get; set; }
+        public string H0917 { get; set; }
+        public string H0919 { get; set; }
+        public string H0922 { get; set; }
+        public string H0923 { get; set; }
+        public string H0926 { get; set; }
+        public string H0928 { get; set; }
+        public string H0929 { get; set; }
+        public string H0931 { get; set; }
+        public string H0932 { get; set; }
+        public string H0934 { get; set; }
+        public string H0937 { get; set; }
+        public string H0938 { get; set; }
+        public string H0941 { get; set; }
+        public string H0943 { get; set; }
+        public string H0944 { get; set; }
+
+        public string V0901 { get; set; }
+        public string V0902 { get; set; }
+        public string V0904 { get; set; }
+        public string V0907 { get; set; }
+        public string V0908 { get; set; }
+        public string V0911 { get; set; }
+        public string V0913 { get; set; }
+        public string V0914 { get; set; }
+        public string V0916 { get; set; }
+        public string V0917 { get; set; }
+        public string V0919 { get; set; }
+        public string V0922 { get; set; }
+        public string V0923 { get; set; }
+        public string V0926 { get; set; }
+        public string V0928 { get; set; }
+        public string V0929 { get; set; }
+        public string V0931 { get; set; }
+        public string V0932 { get; set; }
+        public string V0934 { get; set; }
+        public string V0937 { get; set; }
+        public string V0938 { get; set; }
+        public string V0941 { get; set; }
+        public string V0943 { get; set; }
+        public string V0944 { get; set; }
+    }
+}

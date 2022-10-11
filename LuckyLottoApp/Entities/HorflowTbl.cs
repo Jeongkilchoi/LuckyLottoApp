@@ -1,0 +1,101 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace LuckyLottoApp.Entities
+{
+    public class HorflowTbl
+    {
+        [Key]
+        public int Orders { get; set; }
+        public string NM03 { get; set; }
+        public string LS03 { get; set; }
+        public string RS03 { get; set; }
+        public string LN03 { get; set; }
+        public string RN03 { get; set; }
+        public string LZ03 { get; set; }
+        public string RZ03 { get; set; }
+        public string NM04 { get; set; }
+        public string LS04 { get; set; }
+        public string RS04 { get; set; }
+        public string LN04 { get; set; }
+        public string RN04 { get; set; }
+        public string LZ04 { get; set; }
+        public string RZ04 { get; set; }
+        public string NM05 { get; set; }
+        public string LS05 { get; set; }
+        public string RS05 { get; set; }
+        public string LN05 { get; set; }
+        public string RN05 { get; set; }
+        public string LZ05 { get; set; }
+        public string RZ05 { get; set; }
+        public string NM06 { get; set; }
+        public string LS06 { get; set; }
+        public string RS06 { get; set; }
+        public string LN06 { get; set; }
+        public string RN06 { get; set; }
+        public string LZ06 { get; set; }
+        public string RZ06 { get; set; }
+        public string NM07 { get; set; }
+        public string LS07 { get; set; }
+        public string RS07 { get; set; }
+        public string LN07 { get; set; }
+        public string RN07 { get; set; }
+        public string LZ07 { get; set; }
+        public string RZ07 { get; set; }
+        public string NM08 { get; set; }
+        public string LS08 { get; set; }
+        public string RS08 { get; set; }
+        public string LN08 { get; set; }
+        public string RN08 { get; set; }
+        public string LZ08 { get; set; }
+        public string RZ08 { get; set; }
+        public string NM09 { get; set; }
+        public string LS09 { get; set; }
+        public string RS09 { get; set; }
+        public string LN09 { get; set; }
+        public string RN09 { get; set; }
+        public string LZ09 { get; set; }
+        public string RZ09 { get; set; }
+        public string NM10 { get; set; }
+        public string LS10 { get; set; }
+        public string RS10 { get; set; }
+        public string LN10 { get; set; }
+        public string RN10 { get; set; }
+        public string LZ10 { get; set; }
+        public string RZ10 { get; set; }
+        public string NM11 { get; set; }
+        public string LS11 { get; set; }
+        public string RS11 { get; set; }
+        public string LN11 { get; set; }
+        public string RN11 { get; set; }
+        public string LZ11 { get; set; }
+        public string RZ11 { get; set; }
+        public string NM12 { get; set; }
+        public string LS12 { get; set; }
+        public string RS12 { get; set; }
+        public string LN12 { get; set; }
+        public string RN12 { get; set; }
+        public string LZ12 { get; set; }
+        public string RZ12 { get; set; }
+        public string NM13 { get; set; }
+        public string LS13 { get; set; }
+        public string RS13 { get; set; }
+        public string LN13 { get; set; }
+        public string RN13 { get; set; }
+        public string LZ13 { get; set; }
+        public string RZ13 { get; set; }
+        public string NM14 { get; set; }
+        public string LS14 { get; set; }
+        public string RS14 { get; set; }
+        public string LN14 { get; set; }
+        public string RN14 { get; set; }
+        public string LZ14 { get; set; }
+        public string RZ14 { get; set; }
+        public string NM15 { get; set; }
+        public string LS15 { get; set; }
+        public string RS15 { get; set; }
+        public string LN15 { get; set; }
+        public string RN15 { get; set; }
+        public string LZ15 { get; set; }
+        public string RZ15 { get; set; }
+    }
+}
